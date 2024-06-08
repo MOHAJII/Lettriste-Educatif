@@ -44,7 +44,7 @@
 
 ## Technologies Utilisées
 - **Langage** : C++
-- **Outils** : Git, GitHub, Visual Studio Code 
+- **Outils** : Git, GitHub, Visual Studio Code.
 
 ## Installation
 Pour exécuter ce projet en local, suivez ces étapes :
