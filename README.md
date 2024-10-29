@@ -51,4 +51,4 @@ Pour exécuter ce projet en local, suivez ces étapes :
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/LettristeEducatif.git
+   git clone https://github.com/MOHAJII/Lettriste-Educatif.git
