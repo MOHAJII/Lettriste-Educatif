@@ -2,7 +2,7 @@
 
 ![menu](lettriste-menu.jpg)
 ![map](morocco-map.jpg)
-![gameboard](lettriste-mode.jpg)
+![gameboard](lettrist-mode.jpg)
 
 
 ## Introduction
