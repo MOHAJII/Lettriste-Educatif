@@ -1,5 +1,10 @@
 # LettristeÉducatif: Le Jeu de Réflexion par Lettres
 
+![menu](lettriste-menu.jpg)
+![map](morocco-map.jpg)
+![gameboard](lettriste-mode.jpg)
+
+
 ## Introduction
 **LettristeÉducatif** est un jeu de réflexion similaire à Tetriste, mais basé sur l'utilisation de lettres au lieu de formes géométriques. Le but du jeu est de répondre à des questions en construisant des mots avec des lettres. Les joueurs accumulent des points en plaçant correctement les lettres et peuvent utiliser ces points pour obtenir des indices et de l'aide.
 
